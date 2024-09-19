@@ -43,12 +43,6 @@ This project involves creating a PostgreSQL database to store and query data abo
 2. Run the insert_data.sh script to insert data from games.csv into the database:
    ```sh
    ./insert_data.sh
-3. Ensure your queries.sh script has executable permissions:
-   ```sh
-   chmod +x queries.sh
-4. Run the queries.sh script to query the database:
-   ```sh
-   ./queries.sh
    
 ## File Structure
 - `games.csv`: Contains data about World Cup games.
